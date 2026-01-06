@@ -8,7 +8,7 @@ I turn ideas into real, usable products through continuous iteration. My process
 
 Outside of code, I enjoy rock music and playing guitar 🎸, where practice and repetition are part of getting better over time.
 
-🌐 [**Portfolio**](https://portfolio-thiago-moslavacz.vercel.app/) /
+🌐 [**Portfolio**](https://thiagomoslavacz.vercel.app/) /
 Liked my work? Check out my projects and follow me on other platforms.
 
 [**LinkedIn**](linkedin.com/in/thiagomoslavacz) •
