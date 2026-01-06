@@ -11,9 +11,9 @@ Outside of code, I enjoy rock music and playing guitar 🎸, where practice and 
 🌐 [**Portfolio**](https://thiagomoslavacz.vercel.app/) /
 Liked my work? Check out my projects and follow me on other platforms.
 
-[**LinkedIn**](linkedin.com/in/thiagomoslavacz) •
-[**Email**](thiagomoslavacz@gmail.com) •
-[**Instagram**](@limah.moslavacz)
+[**LinkedIn**](https://linkedin.com/in/thiagomoslavacz) •
+[**Email**](mailto:thiagomoslavacz@gmail.com) •
+[**Instagram**](https://instagram.com/limah.moslavacz)
 
 ---
 
