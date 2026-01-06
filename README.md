@@ -49,11 +49,3 @@ Liked my work? Check out my projects and follow me on other platforms.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
-<img 
-    align="left" 
-    alt="GIT" 
-    title="GIT"
-    width="25px" 
-    style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
