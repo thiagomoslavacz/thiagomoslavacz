@@ -4,7 +4,7 @@
 
 I'm Thiago, a developer focused on building clean, functional, and well-structured web interfaces.
 
-I turn ideas into real, usable products through continuous iteration. My process is hands-on and practical: breaking things, building solutions, testing ideas, and adjusting until the result is solid, efficient, and clear. I’m constantly improving with personal and freelance projects, studying software engineering and modern front-end development, and refining both code quality and project structure.
+I turn ideas into real, usable products through continuous iteration. My process is hands-on and practical: breaking things, building solutions, testing ideas, and adjusting until the result is solid, efficient, and clear. I’m constantly improving with personal and freelance projects, studying software engineering and modern front-end development, and refining both code quality and project structure.  
 Life between code and some rock. 🎸
 
 🌐 [**Portfolio**](https://thiagomoslavacz.vercel.app/) /
