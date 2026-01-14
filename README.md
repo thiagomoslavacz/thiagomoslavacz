@@ -1,14 +1,14 @@
-### Hey There! 🤘
+### E aí! 🤘
 
-**`Front End Enginner`**
+**`Desenvolvedor Front-End`**
 
-I'm Thiago, a developer focused on building clean, functional, and well-structured web interfaces.
+Sou o Thiago, um desenvolvedor focado em criar interfaces web limpas, funcionais e bem estruturadas.
 
-I turn ideas into real, usable products through continuous iteration. My process is hands-on and practical: breaking things, building solutions, testing ideas, and adjusting until the result is solid, efficient, and clear. I’m constantly improving with personal and freelance projects, studying software engineering and modern front-end development, and refining both code quality and project structure.  
-Life between code and some rock. 🎸
+Transformo ideias em produtos reais e utilizáveis por meio de iteração contínua. Meu processo é prático e direto: quebrar coisas, construir soluções, testar ideias e ajustar até que o resultado seja sólido, eficiente e claro. Estou em constante evolução através de projetos pessoais e freelas, estudando engenharia de software e desenvolvimento front-end moderno, sempre aprimorando a qualidade do código e a estrutura dos projetos.  
+Vida entre código e um pouco de rock. 🎸
 
-🌐 [**Portfolio**](https://thiagomoslavacz.vercel.app/) /
-Liked my work? Check out my projects and follow me on other platforms.
+🌐 [**Portfólio**](https://thiagomoslavacz.vercel.app/) /  
+Curtiu meu trabalho? Confira meus projetos e me acompanhe em outras plataformas.
 
 [**LinkedIn**](https://linkedin.com/in/thiagomoslavacz) •
 [**Email**](mailto:thiagomoslavacz@gmail.com) •
