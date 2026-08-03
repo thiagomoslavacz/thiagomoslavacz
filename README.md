@@ -1,6 +1,6 @@
 ### E aí! 🤘
 
-**`Desenvolvedor Front-End`**
+**`Engenheiro de Software`**
 
 Sou o Thiago, um desenvolvedor focado em criar interfaces web limpas, funcionais e bem estruturadas.
 
